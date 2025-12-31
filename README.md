@@ -1,4 +1,5 @@
-## Hi, I'm Sihyun
+# About Me 👋  
+Hi! I'm Sihyun Jang
 
 # Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
@@ -22,10 +23,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
-- Backend:
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+- Backend
 
 - DB:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
