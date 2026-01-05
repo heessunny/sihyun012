@@ -1,6 +1,9 @@
 # About Me 👋  
 Hi! I'm Sihyun Jang
 
+# Bio
+풀 스택 개발자를 꿈꾸며 도전 중이고, 새로운 것을 배우는 것을 좋아합니다.
+
 # Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
